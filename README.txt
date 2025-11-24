@@ -10,11 +10,6 @@ How to Run:
 3. It will open two new windows: one for the Backend Server and one for the Frontend Client.
 4. Your browser should open automatically, or you can visit http://localhost:5173.
 
-Admin Access:
--------------
-URL: http://localhost:5173/admin
-PIN: Revathi@2912
-
 Troubleshooting:
 ----------------
 - If the script fails, ensure you have Node.js installed.
