@@ -1,0 +1,31 @@
+:root {
+  /* Colors */
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #1a1a1a;
+  --bg-card: #252525;
+  
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0a0;
+  --text-accent: #00ff9d; /* Neon Green */
+  
+  --accent-primary: #00ff9d;
+  --accent-secondary: #7000ff; /* Neon Purple */
+  --accent-tertiary: #ff0055; /* Neon Pink */
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Borders */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}
