@@ -114,8 +114,8 @@ const Hero = ({ data }) => {
                 >
                     <div
                         style={{
-                            width: 'min(330px, 70vw)',
-                            height: 'min(330px, 70vw)',
+                            width: 'min(480px, 70vw)',
+                            height: 'min(480px, 70vw)',
                             borderRadius: '50%',
                             overflow: 'hidden',
                             border: '4px solid var(--accent-primary)',
