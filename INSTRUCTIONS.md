@@ -50,12 +50,6 @@ npm run dev
 ```
 *The client will start on `http://localhost:5173` (or similar).*
 
-### 3. Access the Portal
-
-*   **Portfolio Website:** Open your browser and go to the URL shown in Terminal 2 (usually `http://localhost:5173`).
-*   **Admin Dashboard:** Go to `http://localhost:5173/admin` to manage content.
-    *   **Admin PIN:** `Revathi@2912`
-
 ## Troubleshooting
 
 *   **Blank Page?** If you see a blank page, check the browser console (F12) for errors. Ensure the backend server is running.
