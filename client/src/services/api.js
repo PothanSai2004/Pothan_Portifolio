@@ -1,5 +1,5 @@
-// const API_URL = 'https://pothan-portifolio.onrender.com';
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://pothan-portifolio.onrender.com';
+
 export const api = {
     async getData() {
         const response = await fetch(`${API_URL}/data`);
